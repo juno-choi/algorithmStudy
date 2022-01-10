@@ -2,6 +2,9 @@ package search;
 
 import java.util.Arrays;
 
+/**
+ * 선형 검색
+ */
 public class LinearSearch {
     public static void main(String[] args) {
         int[] arr = {1,2,3,4,5};
